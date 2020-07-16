@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/fcc-heat-map/static/css/main.1e2c8227.chunk.css",
+    "main.js": "/fcc-heat-map/static/js/main.5e8d1ba2.chunk.js",
+    "main.js.map": "/fcc-heat-map/static/js/main.5e8d1ba2.chunk.js.map",
+    "runtime-main.js": "/fcc-heat-map/static/js/runtime-main.eea58bf7.js",
+    "runtime-main.js.map": "/fcc-heat-map/static/js/runtime-main.eea58bf7.js.map",
+    "static/js/2.13127093.chunk.js": "/fcc-heat-map/static/js/2.13127093.chunk.js",
+    "static/js/2.13127093.chunk.js.map": "/fcc-heat-map/static/js/2.13127093.chunk.js.map",
+    "index.html": "/fcc-heat-map/index.html",
+    "precache-manifest.9ccea294f18615ed3eff4903fda688c9.js": "/fcc-heat-map/precache-manifest.9ccea294f18615ed3eff4903fda688c9.js",
+    "service-worker.js": "/fcc-heat-map/service-worker.js",
+    "static/css/main.1e2c8227.chunk.css.map": "/fcc-heat-map/static/css/main.1e2c8227.chunk.css.map",
+    "static/js/2.13127093.chunk.js.LICENSE.txt": "/fcc-heat-map/static/js/2.13127093.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eea58bf7.js",
+    "static/js/2.13127093.chunk.js",
+    "static/css/main.1e2c8227.chunk.css",
+    "static/js/main.5e8d1ba2.chunk.js"
+  ]
+}
