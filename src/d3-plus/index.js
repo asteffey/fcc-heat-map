@@ -20,7 +20,7 @@ dsplus.selection.prototype.attrs = function (attrs) {
     if (typeof attrs === 'function') {
         this.forEach((node, datum) =>
             node.attrs(attrs(datum))
-        )
+        );
     } else {
         for (const key in attrs) {
             this.attr(key, attrs[key]);

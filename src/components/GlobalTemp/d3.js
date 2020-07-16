@@ -76,7 +76,7 @@ function parse({ baseTemperature, monthlyVariance }, width, height) {
         colorScale: d3plus.scaleSequential(
             d3plus.extent(data, ({ temperature }) => temperature).reverse(),
             d3plus.interpolateRdYlBu)
-    }
+    };
 }
 
 function createTip(chart, { cellWidth, width }) {
